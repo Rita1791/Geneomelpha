@@ -86,6 +86,26 @@ Instead of displaying raw genomic information, the platform presents clinically 
 
 The project illustrates how computational biology can support patient-centred precision medicine and improve genomic literacy.
 
+## Future Roadmap
+
+- AI-assisted variant interpretation
+
+- ACMG classification support
+
+- Polygenic Risk Scores
+
+- CNV Analysis
+
+- Pharmacogenomic recommendations
+
+- Multi-omics integration
+
+- FHIR compatibility
+
+- Clinical decision support
+
+- Electronic Health Record integration
+
 ## Workflow
 
 Patient Upload
@@ -109,3 +129,5 @@ Patient-Friendly Report
 ↓
 
 QR Verification
+
+
