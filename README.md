@@ -132,12 +132,17 @@ The platform contributes to:
 
 ---
 
-# 🎬 Project Demonstration
+# 🎬 Interactive Project Demonstration
+
+The animation below provides a quick walkthrough of the Geneomelpha platform, showcasing its user interface, workflow, and core genomic interpretation modules.
 
 <p align="center">
-<img src="assets/geneomelpha-demo.gif" width="95%">
+<img src="assets/geneomelpha-demo.gif" alt="Geneomelpha Demonstration" width="95%">
 </p>
 
+> 💡 **Tip:** For the best viewing experience, open the GIF in a new tab or visit the live application below.
+
+🌍 **Live Demo:** **[Launch Geneomelpha](https://genelpha.netlify.app/)**
 ---
 
 # ✨ Key Features
