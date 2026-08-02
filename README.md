@@ -404,15 +404,21 @@ Please review the project documentation before contributing.
 
 Geneomelpha was developed with the vision of making genomic information more understandable, accessible, and meaningful for patients, students, researchers, and healthcare professionals.
 
-I would like to express my sincere gratitude to:
+I would like to express my sincere gratitude to the institutions and scientific communities that have inspired and supported this project.
 
-- 🎓 **Guru Nanak Khalsa College (Autonomous), Mumbai**
-- 🎓 **University of Mumbai**
-- 🇨🇭 **SIB Swiss Institute of Bioinformatics (SIB)**
-- 🧬 **European Conference on Computational Biology (ECCB) 2026**
-- 🌍 **The Open-Source Bioinformatics Community**
+<div align="center">
 
-Their commitment to education, research, innovation, and scientific collaboration has been an important source of inspiration throughout the development of Geneomelpha.
+| Institution | Contribution |
+|-------------|--------------|
+| 🎓 **Guru Nanak Khalsa College (Autonomous), Mumbai** | Academic Foundation |
+| 🎓 **University of Mumbai** | Higher Education & Research |
+| 🇨🇭 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/SIB_logo.svg" height="18"> **SIB Swiss Institute of Bioinformatics** | Scientific Inspiration |
+| 🧬 **ECCB 2026 – European Conference on Computational Biology** | International Research Platform |
+| 🌍 **Open-Source Bioinformatics Community** | Knowledge Sharing & Collaboration |
+
+</div>
+
+Their commitment to education, scientific excellence, open science, and innovation has been an important source of inspiration throughout the development of Geneomelpha.
 
 ---
 
@@ -428,20 +434,26 @@ For more information, please refer to the **LICENSE** file.
 
 <div align="center">
 
-<a href="https://genelpha.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Geneomelpha-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<a href="https://genelpha.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Geneomelpha-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo">
 </a>
 
-<a href="https://github.com/Rita1791">
-<img src="https://img.shields.io/badge/GitHub-Rita1791-181717?style=for-the-badge&logo=github">
+&nbsp;&nbsp;
+
+<a href="https://github.com/Rita1791" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Rita1791-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/ritika-rawat-551107219/">
-<img src="https://img.shields.io/badge/LinkedIn-Ritika%20Rawat-0A66C2?style=for-the-badge&logo=linkedin">
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ritika-rawat-551107219/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ritika%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:ritika.rawat27@outlook.com">
-<img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+<img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
 </a>
 
 </div>
