@@ -2,7 +2,7 @@
 
 ## What is Geneomelpha?
 
-...
+Geneomelpha is an AI-assisted bioinformatics platform designed to bridge the gap between complex genomic data and human understanding by transforming technical genomic reports into clear, patient-friendly, and clinically meaningful insights.
 
 ---
 
