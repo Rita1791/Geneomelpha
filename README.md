@@ -52,10 +52,6 @@ Geneomelpha explores how bioinformatics and thoughtful interface design can brid
 
 # 🌍 Live Demonstration
 
-<p align="center">
-
-# 🌐 Live Demonstration
-
 <div align="center">
 
 ### 🚀 Experience Geneomelpha Online
@@ -77,15 +73,15 @@ Geneomelpha explores how bioinformatics and thoughtful interface design can brid
 
 # 🎬 Interactive Platform Demonstration
 
-The animation below provides a walkthrough of Geneomelpha's interface, demonstrating its workflow, genomic modules, and patient-oriented reporting.
+The animation below provides a walkthrough of Geneomelpha's interface, workflow, and patient-oriented genomic interpretation.
 
 <p align="center">
 
-<a href="https://genelpha.netlify.app/" target="_blank">
+<a href="https://genelpha.netlify.app">
 
-<img src="https://raw.githubusercontent.com/Rita1791/Geneomelpha/main/assets/geneomelpha-demo.gif"
+<img src="./assets/geneomelpha-demo.gif"
 alt="Geneomelpha Demo"
-width="95%">
+width="95%"/>
 
 </a>
 
@@ -93,11 +89,11 @@ width="95%">
 
 <p align="center">
 
-<strong>👆 Click the animation to launch Geneomelpha</strong>
+<b>👆 Click the animation to explore Geneomelpha</b>
 
 </p>
----
 
+---
 # ✨ Key Features
 
 | Module | Description |
