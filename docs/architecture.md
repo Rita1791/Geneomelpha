@@ -1,25 +1,35 @@
-Overview
+# 🏗 System Architecture
 
-↓
+---
 
-Frontend
+## Overview
 
-↓
+Geneomelpha follows a modular web architecture.
 
-Backend
+---
 
-↓
+![Architecture](../assets/system-architecture.png)
 
-Interpretation Engine
+---
 
-↓
+## Components
 
-Report Generator
+| Component | Purpose |
+|------------|---------|
+| Frontend | User Interface |
+| Backend | Business Logic |
+| Interpretation Engine | Report Processing |
+| Clinical Layer | Simplified Insights |
+| Report Generator | PDF Output |
 
-↓
+---
 
-Security
+## Design Principles
 
-↓
+✔ Simplicity
 
-Future AI Integration
+✔ Modularity
+
+✔ Accessibility
+
+✔ Scalability
