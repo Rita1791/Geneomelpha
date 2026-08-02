@@ -36,24 +36,20 @@ A proof-of-concept bioinformatics platform that transforms complex genomic repor
 
 # 🎬 Interactive Platform Demonstration
 
-Experience Geneomelpha in action through the demonstration below.
+The animation below provides a walkthrough of Geneomelpha's interface, workflow, and patient-oriented genomic interpretation.
 
 <p align="center">
-
-<a href="https://genelpha.netlify.app/" target="_blank">
-
-<img src="https://raw.githubusercontent.com/Rita1791/Geneomelpha/main/assets/geneomelpha-demo.gif"
-alt="Geneomelpha Demonstration"
-width="95%">
-
-</a>
-
+  <a href="https://genelpha.netlify.app/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Rita1791/Geneomelpha/main/assets/geneomelpha-demo.gif"
+      alt="Geneomelpha Demonstration"
+      width="95%"
+    />
+  </a>
 </p>
 
 <p align="center">
-
-<b>👆 Click the animation above to launch the live Geneomelpha platform.</b>
-
+  <b>👆 Click the animation above to explore Geneomelpha.</b>
 </p>
 
 ---
@@ -458,10 +454,8 @@ For more information, please refer to the **LICENSE** file.
 
 **Bioinformatics Research Assistant**
 
-🎓 **M.Sc. Bioinformatics**
-
-**Guru Nanak Khalsa College (Autonomous), Mumbai**
-
+🎓 **M.Sc. Bioinformatics**  
+**Guru Nanak Khalsa College (Autonomous), Mumbai**  
 *Affiliated with the University of Mumbai*
 
 🧬 ECCB 2026 Poster Presenter
