@@ -1,3 +1,4 @@
+![Research Project](https://img.shields.io/badge/Research-Bioinformatics-blueviolet?style=for-the-badge)
 <p align="center">
   <img src="assets/geneomelpha-banner.png" alt="Geneomelpha Banner" width="100%">
 </p>
@@ -290,3 +291,15 @@ Passionate about:
 ## 🌟 Vision
 
 > **"Bridging Genomics & Understanding — transforming complex genomic information into meaningful insights for everyone."**
+
+---
+
+# 📖 Citation
+
+If you use **Geneomelpha** in your research, teaching, presentations, or academic work, please cite this repository.
+
+GitHub automatically generates citation formats through the repository's `CITATION.cff` file.
+
+> ⭐ If Geneomelpha supports your work, consider citing it to acknowledge the project and help others discover it.
+
+---
