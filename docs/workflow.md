@@ -1,25 +1,41 @@
-Homepage
+# 🔄 User Workflow
+
+---
+
+![Workflow](../assets/user-workflow.png)
+
+---
+
+## User Journey
+
+1️⃣ Homepage
 
 ↓
 
-Select Genomic Service
+2️⃣ Select Genomic Service
 
 ↓
 
-Enter Patient Information
+3️⃣ Enter Patient Information
 
 ↓
 
-Upload Laboratory Report
+4️⃣ Upload Report
 
 ↓
 
-Generate Analysis
+5️⃣ Generate Analysis
 
 ↓
 
-Interpretation
+6️⃣ Interpretation
 
 ↓
 
-Clinical Report
+7️⃣ Clinical Report
+
+---
+
+## Goal
+
+Provide understandable genomic insights.
