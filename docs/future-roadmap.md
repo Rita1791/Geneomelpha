@@ -1,11 +1,31 @@
-Version 1
+# 🚀 Future Roadmap
 
-Version 2
+---
 
-Version 3
+![Roadmap](../assets/future-roadmap.png)
 
-Research Goals
+---
 
-Clinical Goals
+## Current
 
-AI Goals
+✔ Web Platform
+
+✔ Report Generation
+
+✔ QR Verification
+
+---
+
+## Next
+
+🚧 AI Interpretation
+
+🚧 ACMG Support
+
+🚧 Variant Classification
+
+---
+
+## Vision
+
+🌍 Precision Medicine Platform
