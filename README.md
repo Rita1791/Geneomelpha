@@ -24,6 +24,26 @@ Making complex genomic reports understandable through bioinformatics, intuitive 
 </p>
 
 ---
+## 📑 Quick Navigation
+
+- 📖 About
+- 🎯 Why Geneomelpha?
+- 🌐 Live Demo
+- ✨ Features
+- 🏗 System Architecture
+- 🔄 User Workflow
+- 💡 Project Vision
+- 📷 Screenshots
+- ⚙ Technology Stack
+- 📚 Documentation
+- 🔬 Research
+- 🚀 Future Roadmap
+- 📖 Citation
+- 🤝 Contributing
+- 👩‍💻 Author
+---
+
+---
 
 # 📖 About Geneomelpha
 
