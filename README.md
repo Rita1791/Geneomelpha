@@ -58,10 +58,6 @@ width="95%">
 
 ---
 
-# 🌐 Live Demonstration
-
-<div align="center">
-
 ### 🚀 Experience Geneomelpha Online
 
 <a href="https://genelpha.netlify.app/">
