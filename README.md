@@ -62,6 +62,7 @@ width="95%">
 
 <a href="https://genelpha.netlify.app/">
 
+<img src="https://img.shields.io/badge/Launch%20Geneomelpha-Live%20Application-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
 </a>
 
