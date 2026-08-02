@@ -14,135 +14,62 @@ Making complex genomic reports understandable through bioinformatics, intuitive 
 
 <p align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Netlify-00C7B7?style=for-the-badge)](🌍 **Live Demo**  👉 **[Launch Geneomelpha](🌍 **Live Demo**  👉 **[Launch Geneomelpha](https://genelpha.netlify.app/)**)**)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-00599C?style=for-the-badge)
-![Clinical Genomics](https://img.shields.io/badge/Clinical-Genomics-2E8B57?style=for-the-badge)
-![Precision Medicine](https://img.shields.io/badge/Precision-Medicine-1E88E5?style=for-the-badge)
-![ECCB 2026 Poster](https://img.shields.io/badge/ECCB%202026-Poster%20Presenter-0A7EA4?style=for-the-badge)
-![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+<a href="https://genelpha.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Netlify-00C7B7?style=for-the-badge">
+</a>
+
+<img src="https://img.shields.io/badge/Bioinformatics-00599C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Clinical%20Genomics-2E8B57?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Precision%20Medicine-1E88E5?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ECCB%202026-Poster%20Presenter-0A7EA4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
 
 </p>
-
----
-
-# 📑 Quick Navigation
-
-- [📖 About Geneomelpha](#-about-geneomelpha)
-- [💡 Why I Built Geneomelpha](#-why-i-built-geneomelpha)
-- [🎯 Why Geneomelpha?](#-why-geneomelpha)
-- [🌍 Potential Impact](#-potential-impact)
-- [👥 Who is Geneomelpha For?](#-who-is-geneomelpha-for)
-- [🌐 Live Demonstration](#-live-demonstration)
-- [🎬 Project Demonstration](#-project-demonstration)
-- [✨ Key Features](#-key-features)
-- [🚦 Project Status](#-project-status)
-- [🏗 System Architecture](#-system-architecture)
-- [🔄 User Workflow](#-user-workflow)
-- [💡 Project Vision](#-project-vision)
-
----
-
-# 🚦 Project Status
-
-| Component | Status |
-|-----------|:------:|
-| 🌐 Live Web Platform | ✅ |
-| 📚 Documentation | ✅ |
-| 🔬 Research Documentation | ✅ |
-| 🧬 Multi-Module Platform | ✅ |
-| 📱 Responsive Interface | ✅ |
-| 🤖 AI-assisted Interpretation | 🚧 Planned |
-| 🏥 Clinical Validation | 🚧 Future Work |
-
----
-
-# 🌟 Repository Highlights
-
-| Highlight | Description |
-|-----------|-------------|
-| 🧬 Human-Centered Bioinformatics | Simplifies genomic information for broader accessibility |
-| 🌐 Interactive Web Platform | Responsive and intuitive user experience |
-| 📚 Research-Oriented Documentation | Dedicated documentation and research resources |
-| 🎓 Educational Resource | Supports genomic literacy and science communication |
-| 🚀 Future-Ready | Designed with a roadmap toward AI-assisted interpretation |
 
 ---
 
 # 📖 About Geneomelpha
 
-**Geneomelpha** is a **proof-of-concept bioinformatics platform** that explores how complex genomic reports can be transformed into clear, patient-friendly, and clinically meaningful summaries.
+Geneomelpha is a **proof-of-concept bioinformatics platform** that explores how complex genomic reports can be transformed into **clear, patient-friendly, and clinically meaningful summaries**.
 
-The project combines **computational genomics**, **scientific communication**, and **human-centered interface design** to improve the accessibility of genomic information for individuals without specialized genetics training.
+The project combines **computational genomics**, **clinical genomics**, **scientific communication**, and **human-centered interface design** to improve genomic literacy and make precision medicine more accessible.
 
-Rather than replacing clinical expertise, Geneomelpha aims to support communication between genomic laboratories, healthcare professionals, researchers, students, and patients while promoting genomic literacy and the broader adoption of precision medicine.
-
----
-
-# 💡 Why I Built Geneomelpha
-
-During my work in bioinformatics, I observed that genomic reports are typically written for specialists and often contain terminology that is difficult for patients, students, and even non-specialist healthcare professionals to interpret.
-
-Geneomelpha was created as a proof-of-concept platform to explore how computational biology, intuitive visualization, and accessible scientific communication can make genomic information easier to understand without compromising scientific integrity.
-
-The long-term vision is to contribute to improved genomic literacy, better patient engagement, and more accessible precision medicine.
+Rather than replacing clinical expertise, Geneomelpha aims to support communication between laboratories, clinicians, researchers, students, and patients through intuitive genomic report interpretation.
 
 ---
 
-# 🎯 Why Geneomelpha?
+# 💡 Why Geneomelpha?
 
-Advances in genomic sequencing have made genetic testing increasingly accessible. However, the communication of genomic findings has not advanced at the same pace.
+Modern genomic sequencing technologies generate increasingly detailed reports, yet many remain difficult to interpret for people without formal genetics training.
 
-Many genomic reports contain complex terminology such as variant classifications, pathogenicity assessments, allele frequencies, and disease-associated annotations that require specialized knowledge to interpret.
-
-Geneomelpha addresses this challenge by exploring how bioinformatics and user-centered design can transform technical genomic reports into understandable, visually engaging summaries.
+Geneomelpha explores how bioinformatics and thoughtful interface design can bridge this communication gap by transforming complex genomic information into understandable visual summaries while preserving scientific meaning.
 
 ---
 
-# 🌍 Potential Impact
-
-Geneomelpha explores how computational biology can strengthen communication between genomic laboratories, healthcare professionals, researchers, and patients.
-
-The platform contributes to:
-
-- 🧬 Improved genomic literacy
-- 🩺 Better patient–clinician communication
-- 🎓 Bioinformatics education
-- 🌍 Wider accessibility of precision medicine concepts
-- 💡 Human-centered scientific communication
-
----
-
-# 👥 Who is Geneomelpha For?
-
-| Audience | How Geneomelpha Helps |
-|----------|-----------------------|
-| 👤 Patients | Better understanding of genomic reports |
-| 🩺 Clinicians | Supports clearer communication with patients |
-| 🧬 Researchers | Demonstrates accessible genomic interpretation concepts |
-| 🎓 Students | Educational resource for learning clinical genomics |
-| 🏥 Healthcare Organizations | Encourages genomic literacy initiatives |
-
----
-
-# 🌐 Live Demonstration
-
-### 🚀 Explore the Platform
-
-**🔗 🌍 **Live Demo**  👉 **[Launch Geneomelpha](🌍 **Live Demo**  👉 **[Launch Geneomelpha](https://genelpha.netlify.app/)**)****
-
----
-
-# 🎬 Interactive Project Demonstration
-
-The animation below provides a quick walkthrough of the Geneomelpha platform, showcasing its user interface, workflow, and core genomic interpretation modules.
+# 🌍 Live Demonstration
 
 <p align="center">
-<img src="assets/geneomelpha-demo.gif" alt="Geneomelpha Demonstration" width="95%">
+
+### 🚀 Try Geneomelpha
+
+## https://genelpha.netlify.app/
+
 </p>
 
-> 💡 **Tip:** For the best viewing experience, open the GIF in a new tab or visit the live application below.
+---
 
-🌍 **Live Demo:** **[Launch Geneomelpha](https://genelpha.netlify.app/)**
+# 🎬 Interactive Platform Demonstration
+
+The animation below provides a walkthrough of Geneomelpha's interface, demonstrating its workflow, genomic modules, and patient-oriented reporting.
+
+<p align="center">
+<img src="assets/geneomelpha-demo.gif" alt="Geneomelpha Demo" width="95%">
+</p>
+
 ---
 
 # ✨ Key Features
@@ -150,14 +77,39 @@ The animation below provides a quick walkthrough of the Geneomelpha platform, sh
 | Module | Description |
 |----------|-------------|
 | 🧬 Cancer Genomics | Simplified interpretation of cancer-associated genomic reports |
-| 💊 Pharmacogenomics | Patient-friendly summaries of drug–gene interactions |
-| 👶 Prenatal Screening | Accessible prenatal genomic report interpretation |
-| 👨‍👩‍👧 Carrier Screening | Clear visualization of carrier screening results |
+| 💊 Pharmacogenomics | Drug–gene interaction summaries |
+| 👨‍👩‍👧 Carrier Screening | Accessible carrier screening reports |
+| 👶 Prenatal Screening | Patient-friendly prenatal genomic interpretation |
 | 🦠 Microbiome | Simplified microbiome report summaries |
-| 🧬 Rare Disease | Easy-to-understand rare disease genomic interpretation |
-| 📄 Clinical Report Generation | Professional patient-oriented report generation |
+| 🧬 Rare Disease | Easy-to-understand rare disease reports |
+| 📄 Clinical Report Generation | Professional report generation |
 | 🔐 QR Verification | Secure report authentication |
-| 📊 Interactive Dashboard | Modern, responsive web interface |
+| 📊 Interactive Dashboard | Responsive modern interface |
+
+---
+
+# 🚦 Current Development Status
+
+| Component | Status |
+|-----------|:------:|
+| Web Platform | ✅ Available |
+| Documentation | ✅ Complete |
+| Research Documentation | ✅ Complete |
+| Live Demonstration | ✅ Available |
+| AI-assisted Interpretation | 🚧 Planned |
+| Clinical Validation | 🚧 Future Research |
+
+---
+
+# 👥 Who is Geneomelpha For?
+
+| Audience | Purpose |
+|----------|---------|
+| 👤 Patients | Better understanding of genomic reports |
+| 🩺 Clinicians | Improve patient communication |
+| 🧬 Researchers | Demonstrate human-centered bioinformatics |
+| 🎓 Students | Learn genomic interpretation |
+| 🏥 Healthcare Organizations | Promote genomic literacy |
 
 ---
 
@@ -171,11 +123,11 @@ Geneomelpha follows a modular architecture consisting of:
 
 - 🎨 Frontend Interface
 - ⚙ Backend Services
-- 🧬 Interpretation Layer
+- 🧬 Geneomelpha Interpretation Engine
 - 📄 Clinical Report Generation
 - 🔐 QR Verification
 
-📚 **Learn more:** [`docs/architecture.md`](docs/architecture.md)
+📚 **Documentation:** [System Architecture](docs/architecture.md)
 
 ---
 
@@ -189,13 +141,13 @@ Geneomelpha follows a modular architecture consisting of:
 Choose Genomic Service
         │
         ▼
-Enter Patient Information
+Enter Patient Details
         │
         ▼
 Upload Laboratory Report
         │
         ▼
-Generate Interpretation
+Geneomelpha Interpretation
         │
         ▼
 Patient-Friendly Clinical Summary
@@ -204,7 +156,7 @@ Patient-Friendly Clinical Summary
 Download Verified Report
 ```
 
-📚 **Learn more:** [`docs/workflow.md`](docs/workflow.md)
+📚 **Documentation:** [Workflow Guide](docs/workflow.md)
 
 ---
 
@@ -214,16 +166,13 @@ Download Verified Report
 <img src="assets/project-vision.png" width="95%">
 </p>
 
-Geneomelpha is built on a simple belief:
+> **Geneomelpha aims to bridge the gap between complex genomic information and human understanding by combining bioinformatics, clinical genomics, and intuitive design to make precision medicine more accessible for everyone.**
 
-> **Genomic information should be understandable, accessible, and meaningful—not only for specialists, but for everyone.**
-
-The project represents an ongoing effort to combine **bioinformatics**, **clinical genomics**, **scientific communication**, and **human-centered design** to bridge the gap between complex genomic data and real-world understanding.
-
+---
 
 # 📷 Application Preview
 
-Explore the user interface of Geneomelpha through selected screenshots showcasing its core modules and user experience.
+Explore the Geneomelpha interface through selected screenshots highlighting its major modules and user experience.
 
 | 🏠 Homepage | 📄 Patient Report |
 |:-----------:|:-----------------:|
@@ -241,46 +190,15 @@ Explore the user interface of Geneomelpha through selected screenshots showcasin
 
 # ⚙ Technology Stack
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-## 🎨 Frontend
+| Frontend | Backend | Database | Deployment |
+|:---------:|:-------:|:--------:|:----------:|
+| HTML5 | Node.js | MongoDB | Netlify |
+| CSS3 | Express.js | MongoDB Atlas *(planned)* | GitHub |
+| JavaScript | REST API | | |
 
-- HTML5
-- CSS3
-- JavaScript
-
-</td>
-
-<td width="50%">
-
-## ⚙ Backend
-
-- Node.js
-- Express.js
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🗄 Database
-
-- MongoDB
-
-</td>
-
-<td>
-
-## ☁ Deployment
-
-- Netlify
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -290,17 +208,21 @@ Explore the user interface of Geneomelpha through selected screenshots showcasin
 Geneomelpha
 │
 ├── 📁 assets/
-│   ├── Banner
-│   ├── Logo
-│   ├── Architecture
-│   ├── Workflow
-│   ├── Vision
-│   └── Roadmap
+│   ├── geneomelpha-banner.png
+│   ├── geneomelpha-demo.gif
+│   ├── system-architecture.png
+│   ├── user-workflow.png
+│   ├── project-vision.png
+│   └── future-roadmap.png
 │
 ├── 📁 backend/
+│
 ├── 📁 frontend/
+│
 ├── 📁 docs/
+│
 ├── 📁 research/
+│
 ├── 📁 screenshots/
 │
 ├── 📄 README.md
@@ -315,12 +237,12 @@ Geneomelpha
 
 # 📚 Documentation
 
-Comprehensive project documentation is available in the **docs** directory.
+The project documentation has been organized separately for easier navigation.
 
-| 📘 Document | Description |
-|-------------|-------------|
-| ⚙ [Installation Guide](docs/installation.md) | Local setup and deployment |
-| 🏗 [System Architecture](docs/architecture.md) | Software architecture |
+| 📘 Documentation | Description |
+|-----------------|-------------|
+| ⚙ [Installation Guide](docs/installation.md) | Setup instructions |
+| 🏗 [Architecture](docs/architecture.md) | Software architecture |
 | 🔄 [Workflow](docs/workflow.md) | User journey |
 | 🚀 [Future Roadmap](docs/future-roadmap.md) | Planned development |
 | ❓ [FAQ](docs/faq.md) | Frequently Asked Questions |
@@ -329,32 +251,32 @@ Comprehensive project documentation is available in the **docs** directory.
 
 # 🔬 Research
 
-The scientific motivation and long-term vision of Geneomelpha are documented in the **research** directory.
+The scientific foundation and long-term vision of Geneomelpha are documented in the **research** directory.
 
-| 📄 Research Document | Description |
-|----------------------|-------------|
-| 💡 Project Concept | Motivation behind Geneomelpha |
+| 📄 Research | Description |
+|-------------|-------------|
+| 💡 Project Concept | Motivation and objectives |
 | 🏥 Clinical Motivation | Why accessible genomics matters |
-| ✅ Validation Strategy | Future evaluation framework |
-| 🚀 Future Research | Planned scientific directions |
-| 📚 References | Scientific resources and databases |
+| 📊 Validation Strategy | Future evaluation plans |
+| 🚀 Future Research | Planned scientific development |
+| 📚 References | Scientific literature and databases |
 
 ---
 
 # 🎤 ECCB 2026 Showcase
 
-Geneomelpha is presented as part of my participation in:
+Geneomelpha is showcased as part of my participation in:
 
 ## 🧬 European Conference on Computational Biology (ECCB) 2026
 
 📍 Geneva, Switzerland
 
-### My Roles
+### Roles
 
 - 🎤 Poster Presenter
 - 🤝 Conference Volunteer
 
-This repository serves as the digital companion to my poster presentation, providing project documentation, research background, software implementation, and future development plans.
+This repository serves as the official digital companion to my ECCB poster presentation, allowing attendees to explore the project beyond the conference through documentation, source code, architecture, and future research plans.
 
 ---
 
@@ -364,33 +286,19 @@ This repository serves as the digital companion to my poster presentation, provi
 <img src="assets/future-roadmap.png" width="95%">
 </p>
 
-Future development directions include:
+Future versions of Geneomelpha aim to explore:
 
-- 🤖 AI-assisted genomic interpretation
-- 🧬 ACMG/AMP variant classification support
-- 📊 Polygenic Risk Score integration
-- 🧪 Multi-omics data integration
-- 💊 Advanced pharmacogenomics
-- 🩺 Clinical decision support
-- ☁ Cloud deployment
-- 📱 Mobile application
-- 🌐 Explainable AI for genomic medicine
-
-📚 **Detailed roadmap:** [research/04-future-research.md](research/04-future-research.md)
-
----
-
-# 📈 Project Highlights
-
-| Feature | Status |
-|----------|:------:|
-| 🌐 Live Demo | ✅ |
-| 📚 Documentation | ✅ |
-| 🔬 Research Documentation | ✅ |
-| 🧬 Interactive Platform | ✅ |
-| 📄 Clinical Report Generation | ✅ |
-| 🤖 AI Integration | 🚧 Planned |
-| 🏥 Clinical Validation | 🚧 Future Work |
+| Planned Direction | Status |
+|-------------------|:------:|
+| 🤖 AI-assisted Genomic Interpretation | 🚧 |
+| 🧬 ACMG/AMP Variant Classification | 🚧 |
+| 💊 Advanced Pharmacogenomics | 🚧 |
+| 🧪 Multi-omics Integration | 🚧 |
+| 📊 Polygenic Risk Score Support | 🚧 |
+| 🩺 Clinical Decision Support | 💡 |
+| ☁ Cloud Deployment | 💡 |
+| 📱 Mobile Platform | 💡 |
+| 🌐 Explainable AI | 💡 |
 
 ---
 
@@ -404,63 +312,80 @@ GitHub automatically generates citation formats through the included **CITATION.
 
 # 🤝 Contributing
 
-Contributions, suggestions, discussions, and research collaborations are welcome.
+Contributions, ideas, discussions, and research collaborations are welcome.
 
-Please read the project documentation before submitting issues or pull requests.
+If you would like to improve Geneomelpha:
+
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Submit a Pull Request.
+
+Please refer to the project documentation before contributing.
 
 ---
 
 # 🙏 Acknowledgements
 
-This project has been inspired by the growing need for accessible genomic interpretation and science communication.
+Geneomelpha has been inspired by the growing need for accessible genomic interpretation and improved genomic literacy.
 
 Special thanks to:
 
 - 🧬 University of Mumbai
-- 🧬 ECCB 2026
 - 🇨🇭 SIB Swiss Institute of Bioinformatics
-- 🌍 Open-source Bioinformatics Community
+- 🧬 European Conference on Computational Biology (ECCB) 2026
+- 🌍 The Open-Source Bioinformatics Community
 
 ---
 
 # 📜 License
 
-This project is released under the **MIT License**.
+Distributed under the **MIT License**.
 
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for complete information.
 
 ---
 
 # 🌐 Connect
 
-### 🌍 Live Demo
+<div align="center">
 
-🌍 **Live Demo**  👉 **[Launch Geneomelpha](🌍 **Live Demo**  👉 **[Launch Geneomelpha](https://genelpha.netlify.app/)**)**
+### 🌍 Live Application
 
-### 💻 GitHub
-
-https://github.com/Rita1791
-
-### 💼 LinkedIn
-
-*(Add your LinkedIn profile URL here.)*
-
-### 📧 Email
-
-*(Add your preferred contact email here.)*
+**🚀 [Launch Geneomelpha](https://genelpha.netlify.app/)**
 
 ---
 
-# 👩‍💻 Author
+### 💻 GitHub
+
+**https://github.com/Rita1791**
+
+---
+
+### 💼 LinkedIn
+
+**Add your LinkedIn profile here**
+
+---
+
+### 📧 Email
+
+**Add your professional email here**
+
+</div>
+
+---
+
+# 👩‍💻 About the Author
 
 ## Ritika Rajendra Rawat
+
+**Bioinformatics Research Assistant**
 
 🎓 MSc Bioinformatics  
 University of Mumbai
 
-🧬 Bioinformatics Research Assistant
-
-🎤 ECCB 2026 Poster Presenter
+🧬 ECCB 2026 Poster Presenter
 
 🤝 ECCB 2026 Conference Volunteer
 
@@ -470,24 +395,25 @@ University of Mumbai
 - Clinical Genomics
 - Precision Medicine
 - Bioinformatics
-- Human-Centered Healthcare Technologies
 - Explainable Biomedical AI
+- Human-Centered Healthcare Technologies
 
 ---
 
-# 🌟 Vision Statement
+# 🌟 Project Philosophy
 
-> **"Geneomelpha represents an ongoing effort to make genomic information more understandable, accessible, and meaningful through bioinformatics, thoughtful interface design, and human-centered scientific communication."**
+> *"Genomic information should be understandable, accessible, and meaningful for everyone—not only for specialists."*
 
----
-
-<p align="center">
-
-### ⭐ If you find this project interesting, consider giving it a star.
-
-Thank you for visiting **Geneomelpha** 🧬
-
-</p>
-
+Geneomelpha represents an ongoing effort to combine computational biology, scientific communication, and intuitive interface design to bridge the gap between complex genomic data and human understanding.
 
 ---
+
+<div align="center">
+
+## ⭐ If you found Geneomelpha interesting or useful, consider giving this repository a Star.
+
+### Thank you for visiting Geneomelpha 🧬
+
+**Making Precision Medicine More Understandable, One Report at a Time.**
+
+</div>
