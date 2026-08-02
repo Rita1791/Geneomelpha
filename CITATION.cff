@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+
+title: "Geneomelpha"
+
+message: >
+  Thank you for your interest in Geneomelpha.
+  If this project contributes to your research, teaching,
+  publication, or scientific communication, please cite it using
+  the metadata below.
+
+type: software
+
+authors:
+  - family-names: Rawat
+    given-names: Ritika Rajendra
+    affiliation: University of Mumbai
+    orcid: https://orcid.org/YOUR_ORCID
+
+repository-code: "https://github.com/Rita1791/Geneomelpha"
+
+url: "https://github.com/Rita1791/Geneomelpha"
+
+abstract: >
+  Geneomelpha is a proof-of-concept bioinformatics platform that
+  transforms complex genomic reports into understandable,
+  patient-friendly insights through intuitive visualization and
+  human-centered design, supporting genomic literacy and precision
+  medicine communication.
+
+keywords:
+  - Bioinformatics
+  - Clinical Genomics
+  - Computational Biology
+  - Precision Medicine
+  - Genomic Literacy
+  - Healthcare
+  - Genomics
+  - Human-Centered Design
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-08-02"
