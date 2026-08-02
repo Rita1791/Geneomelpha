@@ -54,12 +54,25 @@ Geneomelpha explores how bioinformatics and thoughtful interface design can brid
 
 <p align="center">
 
-### 🚀 Try Geneomelpha
+# 🌐 Live Demonstration
 
-## https://genelpha.netlify.app/
+<div align="center">
 
-</p>
+### 🚀 Experience Geneomelpha Online
 
+<a href="https://genelpha.netlify.app/">
+
+<img src="https://img.shields.io/badge/Launch%20Geneomelpha-Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
+</a>
+
+<br><br>
+
+💡 Explore the complete platform, interactive genomic modules, and patient-friendly report generation.
+
+</div>
+
+---
 ---
 
 # 🎬 Interactive Platform Demonstration
@@ -67,9 +80,22 @@ Geneomelpha explores how bioinformatics and thoughtful interface design can brid
 The animation below provides a walkthrough of Geneomelpha's interface, demonstrating its workflow, genomic modules, and patient-oriented reporting.
 
 <p align="center">
-<img src="assets/geneomelpha-demo.gif" alt="Geneomelpha Demo" width="95%">
+
+<a href="https://genelpha.netlify.app/" target="_blank">
+
+<img src="https://raw.githubusercontent.com/Rita1791/Geneomelpha/main/assets/geneomelpha-demo.gif"
+alt="Geneomelpha Demo"
+width="95%">
+
+</a>
+
 </p>
 
+<p align="center">
+
+<strong>👆 Click the animation to launch Geneomelpha</strong>
+
+</p>
 ---
 
 # ✨ Key Features
@@ -176,7 +202,7 @@ Explore the Geneomelpha interface through selected screenshots highlighting its 
 
 | 🏠 Homepage | 📄 Patient Report |
 |:-----------:|:-----------------:|
-| ![](screenshots/01-homepage.png) | ![](screenshots/09-patient-report.png) |
+| <img src="screenshots/01-homepage.png" width="100%"> | ![](screenshots/09-patient-report.png) |
 
 | 🧬 Cancer Genomics | 🦠 Microbiome |
 |:------------------:|:------------:|
