@@ -14,7 +14,7 @@ Making complex genomic reports understandable through bioinformatics, intuitive 
 
 <p align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Netlify-00C7B7?style=for-the-badge)](https://genelpha.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Netlify-00C7B7?style=for-the-badge)](🌍 **Live Demo**  👉 **[Launch Geneomelpha](🌍 **Live Demo**  👉 **[Launch Geneomelpha](https://genelpha.netlify.app/)**)**)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-00599C?style=for-the-badge)
 ![Clinical Genomics](https://img.shields.io/badge/Clinical-Genomics-2E8B57?style=for-the-badge)
 ![Precision Medicine](https://img.shields.io/badge/Precision-Medicine-1E88E5?style=for-the-badge)
@@ -128,7 +128,7 @@ The platform contributes to:
 
 ### 🚀 Explore the Platform
 
-**🔗 https://genelpha.netlify.app/**
+**🔗 🌍 **Live Demo**  👉 **[Launch Geneomelpha](🌍 **Live Demo**  👉 **[Launch Geneomelpha](https://genelpha.netlify.app/)**)****
 
 ---
 
@@ -430,7 +430,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ### 🌍 Live Demo
 
-https://genelpha.netlify.app/
+🌍 **Live Demo**  👉 **[Launch Geneomelpha](🌍 **Live Demo**  👉 **[Launch Geneomelpha](https://genelpha.netlify.app/)**)**
 
 ### 💻 GitHub
 
