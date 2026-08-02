@@ -79,7 +79,21 @@ The animation below provides a walkthrough of Geneomelpha's interface, workflow,
 
 <a href="https://genelpha.netlify.app">
 
-<img src="./assets/geneomelpha-demo.gif"
+<img src="### 💻 GitHub
+
+🔗 **[Rita1791](https://github.com/Rita1791)**
+
+---
+
+### 💼 LinkedIn
+
+🔗 **[Ritika Rajendra Rawat](https://www.linkedin.com/in/ritika-rawat-551107219/)**
+
+---
+
+### 📧 Email
+
+📩 **ritika.rawat27@outlook.com**"
 alt="Geneomelpha Demo"
 width="95%"/>
 
@@ -349,14 +363,17 @@ Please refer to the project documentation before contributing.
 
 # 🙏 Acknowledgements
 
-Geneomelpha has been inspired by the growing need for accessible genomic interpretation and improved genomic literacy.
+Geneomelpha was inspired by the growing need to make genomic information more understandable, accessible, and meaningful for patients, students, researchers, and healthcare professionals.
 
-Special thanks to:
+I would like to express my sincere gratitude to:
 
-- 🧬 University of Mumbai
-- 🇨🇭 SIB Swiss Institute of Bioinformatics
-- 🧬 European Conference on Computational Biology (ECCB) 2026
-- 🌍 The Open-Source Bioinformatics Community
+- 🎓 **University of Mumbai**
+- 🏛️ **Guru Nanak Khalsa College (Autonomous), Mumbai**
+- 🇨🇭 **SIB Swiss Institute of Bioinformatics**
+- 🧬 **European Conference on Computational Biology (ECCB) 2026**
+- 🌍 **The Open-Source Bioinformatics Community**
+
+Their contributions to education, research, and scientific collaboration have been an important source of inspiration throughout the development of Geneomelpha.
 
 ---
 
@@ -380,20 +397,19 @@ See the [LICENSE](LICENSE) file for complete information.
 
 ### 💻 GitHub
 
-**https://github.com/Rita1791**
+🔗 **[Rita1791](https://github.com/Rita1791)**
 
 ---
 
 ### 💼 LinkedIn
 
-**Add your LinkedIn profile here**
+🔗 **[Ritika Rajendra Rawat](https://www.linkedin.com/in/ritika-rawat-551107219/)**
 
 ---
 
 ### 📧 Email
 
-**Add your professional email here**
-
+📩 **ritika.rawat27@outlook.com**
 </div>
 
 ---
@@ -405,7 +421,7 @@ See the [LICENSE](LICENSE) file for complete information.
 **Bioinformatics Research Assistant**
 
 🎓 MSc Bioinformatics  
-University of Mumbai
+Guru Nanak Khalsa College of Arts, Science and Commerce associated with University of Mumbai
 
 🧬 ECCB 2026 Poster Presenter
 
