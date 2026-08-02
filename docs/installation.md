@@ -1,8 +1,11 @@
-Requirements
+# ⚙ Installation Guide
 
-↓
+---
 
-Clone Repository
+## 🧭 Installation Journey
+
+```
+Clone
 
 ↓
 
@@ -10,16 +13,61 @@ Install Dependencies
 
 ↓
 
-Backend Setup
+Configure Backend
 
 ↓
 
-Frontend Setup
+Start Backend
 
 ↓
 
-Run Application
+Start Frontend
 
 ↓
 
-Project Structure
+Open Browser
+
+↓
+
+Geneomelpha Ready
+```
+
+---
+
+## Requirements
+
+| Software | Version |
+|-----------|---------|
+| Node.js | 18+ |
+| npm | Latest |
+| Browser | Chrome |
+
+---
+
+## Clone
+
+```bash
+git clone https://github.com/Rita1791/Geneomelpha.git
+```
+
+---
+
+## Install
+
+```bash
+npm install
+```
+
+---
+
+## Start
+
+```bash
+npm start
+```
+
+---
+
+## Success
+
+✅ Platform running successfully
